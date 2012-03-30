@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[SCRABBLE NOTE]]></title>
   <link href="http://FakeStarBaby.github.com/atom.xml" rel="self"/>
   <link href="http://FakeStarBaby.github.com/"/>
-  <updated>2012-03-30T08:48:15+09:00</updated>
+  <updated>2012-03-30T17:48:57+09:00</updated>
   <id>http://FakeStarBaby.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
