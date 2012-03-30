@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[SCRABBLE NOTE]]></title>
-  <link href="http://FakeStarBaby.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Startup | SCRABBLE NOTE]]></title>
+  <link href="http://FakeStarBaby.github.com/blog/categories/startup/atom.xml" rel="self"/>
   <link href="http://FakeStarBaby.github.com/"/>
   <updated>2012-03-31T01:15:43+09:00</updated>
   <id>http://FakeStarBaby.github.com/</id>
