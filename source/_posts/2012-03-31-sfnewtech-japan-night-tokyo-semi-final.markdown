@@ -9,6 +9,8 @@ categories: Event, Startup
 2012/03/30(金)に開催された『[第4回 SFNewTech Japan Night 東京セミファイナル](http://sfjapannight.com/jn4-02.php)』を観覧して来ました。
 場所は皆さんお馴染み、VOYAGE GROUPさんです。
 
+<!-- more -->
+
 ## SFNewTech Japan Night
 
 このイベントは、『日本からオリジナリティの高いWebサービスをもっと世界へ発信する！』という想いから始まったイベントです。スタートアップ企業が自らのサービスをアメリカのVCに対してプレゼンし、勝者はサンフランシスコにて行われる本戦に出場する権利が得られるそうです。このイベントによる過去の[出場企業の実績](http://sfjapannight.com/reviews.php)も見れるみたいです。
