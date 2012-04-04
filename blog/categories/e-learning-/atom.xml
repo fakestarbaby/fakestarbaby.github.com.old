@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: e-Learning, | SCRABBLE&#9734;NOTE]]></title>
+  <link href="http://FakeStarBaby.github.com/blog/categories/e-learning-/atom.xml" rel="self"/>
+  <link href="http://FakeStarBaby.github.com/"/>
+  <updated>2012-04-04T23:52:46+09:00</updated>
+  <id>http://FakeStarBaby.github.com/</id>
+  <author>
+    <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[最高にクールなeラーニングサービスを知ってるかい？教えてあげよう！それは・・・！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/03/02/awasome-e-learning-service-code-school/"/>
+    <updated>2012-03-02T22:00:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/03/02/awasome-e-learning-service-code-school</id>
+    <content type="html"><![CDATA[<p>Code Schoolさー！知ってる人は知っている、海外の有名企業envylabsが絶賛提供中のeラーニングサービスである。</p>
+
+<h2>Code School</h2>
+
+<p>まずは、トップページをご覧頂こう。</p>
+
+<!-- more -->
+
+
+<p><img src="http://f.cl.ly/items/1b231y1i3J1H0K0X1n1A/codeschool_home.jpg" title="Code School Home" alt="Code School Home" /></p>
+
+<p>Railsを世界にぶっ込んだ、あのDHHもこう言っている。</p>
+
+<blockquote><p>『Code Schoolはマジでヤベェ・・・コイツは次世代の学習方法さ』</p></blockquote>
+
+<p>Code Schoolは、Rails公式サイトでも紹介されてるので、お墨付きと言ってもいいだろう。では、何がそんなにヤベェのか？</p>
+
+<h2>コンセプト</h2>
+
+<p>Code Schoolのコンセプトはこうだ。</p>
+
+<p>本を読むだけでは技術は身に付かない。実際にコードを書いてブラウザで確認する作業が必要だ。そして、その作業は楽しくあるべきだ。これを実現する為に生まれたCode Schoolの特徴を簡単にまとめるとこんな感じだ。</p>
+
+<ul>
+<li>特定のテーマ(Ruby/Rails/jQuery/CSS/Coffee…)単位で学習コースを受講可能で、無料と有料がある。</li>
+<li>ブラウザでスクリーンキャストを視聴して理解した直後、すぐに問題にチャレンジして理解を深める。</li>
+<li>スクリーンキャスト、スライドを入手可能。</li>
+</ul>
+
+
+<p>ふ～ん・・・という感じだろうか。ちょっと文面だけでは伝わりにくいかもしれない。個人的にCode Schoolが最高にクールだと思っている点は、テーマ毎に構築された世界観と、学習する際のゲーミフィケーションだ。</p>
+
+<h2>提供されているコース</h2>
+
+<p>では、Code Schoolで提供されている学習コースを見てみよう！</p>
+
+<p><img src="http://f.cl.ly/items/2R02251E0M3933310H2e/codeschool_courses.jpg" title="Code School Courses" alt="Code School Courses" /></p>
+
+<p>いっぱいあるー！</p>
+
+<h2>Rails for Zombies</h2>
+
+<p>今回は無料コースのRails For Zombiesについてご紹介しよう。</p>
+
+<p><img src="http://f.cl.ly/items/362D1i0l2m2k171T2F00/codeschool_railsforzombies.jpg" title="Rails for Zombies" alt="Rails for Zombies" /></p>
+
+<p>このコースはRailsの基本的な仕組みについて学習する事が出来るコースになっている。海外らしくゾンビを世界観にする事で、非常にクールでグロい感じになっているのが伝わってくる。始めに断っておくが、周りに人が居ない事を確認してから試す事をオススメする。俺みたいに電車内でゾンビ映像を垂れ流して、隣の人に白い目で見られてはイケナイ・・・。</p>
+
+<p>コースを始めると最初に目にする画面はコレだ。</p>
+
+<p><img src="http://f.cl.ly/items/3F1Z2l3s3t0406432Q2q/codeschool_railsforzombies_preview.jpg" title="First View" alt="First View" /></p>
+
+<p>えぇ、グロいですが乗り越えましょう。最初だけです。コースは5つのレベルに分けられており、それぞれ、テーマ毎に学習する内容が異なっている。Rails For Zombiesは以下のようなレベル分けとなっている。</p>
+
+<ul>
+<li>Level1：CRUD</li>
+<li>Level2：Model</li>
+<li>Level3：View</li>
+<li>Level4：Controller</li>
+<li>Level5：Routing</li>
+</ul>
+
+
+<p>それぞれのレベルで5～10分程度のスクリーンキャストが用意されていて、クールな音楽と映像、そして、軽快な喋りで説明をしてくれる。もちろん、全て英語だが心配しなくても大丈夫！このスクリーンキャストは非常に分り易く出来ている為、見ているだけでも理解出来るようになっている。次世代の学習方法の一つとして、このようなインタラクティブなスクリーンキャストは個人的に注目。本を読んでいるだけでは味わえない、スッと理解出来るようなこの感覚は病みつきになる。</p>
+
+<p>さて、スクリーンキャストを視聴して大体理解したら、次は実際にコードを書いて試す画面へ。</p>
+
+<p><img src="http://f.cl.ly/items/413z0N1u3p1r12123E0R/codeschool_railsforzombies_play.jpg" title="Play View" alt="Play View" /></p>
+
+<p>問題が出題されるので、正しいコードを書いて理解を深めるモードになる。問題数は学習コースによって異なる。問題って言ったって、スクリーンキャストを見ただけじゃ解けないよ！そんなに記憶力ねーよ！と嘆かなくても大丈夫！そんな貴方の為に、ヒント機能が搭載されている。各問題につき、2～3個のヒントが用意されていて、少しずつヒントを貰って頑張る！といった解き方が可能。但し、ヒントを貰うとスコアが減る。スコア？そう、スコアっていう概念がある。ノーヒントで全レベルの問題を解けばパーフェクト！ヒントを貰いまくってると、どんどんスコアは低くなる。これは単純に言えば成績みたいなもんだ。</p>
+
+<p>そして、全ての問題を解くと次のレベルへ進めるような仕組みになっている。地味にバッチが貰えたりとか。簡単に説明すると、こんな流れになる。この時に視聴したスクリーンキャストとそのスライドはダウンロード出来るので、手元で確認する事も可能だ。これは嬉しい特典。</p>
+
+<p>更に、学習コースをコンプリートすると、RailsTutorialの割引きが受けられたり、CodeSchoolの割引きが受けられたりもする。実に上手く出来てる。</p>
+
+<p>有料の学習コースを単独で申し込む事も出来るが、月額で$25払えば全てのコースが遊べるようになる。更に、別枠で用意された単体のスクリーンキャストも閲覧可能になる。ホント、実に上手く出来てる。</p>
+
+<h2>まとめ</h2>
+
+<p>少しでも興味を持ったら試してみるべき！これは体験しないと分からない、そんな新しい学習方法だ。 一言で言えば、楽しい！ただ、それだけ。でも、楽しいの大事！</p>
+
+<p>個人的にオススメしたいのは、Rails Best Practiceという学習コース。汚いコードがみるみるリファクタリングされ、美しいコードになる様は見ていて気持ち良い。これは本では味わえない感覚。</p>
+
+<p>さぁ、今すぐ貴方も試してみよう！</p>
+
+<p><a href="http://www.codeschool.com/">Code School</a></p>
+]]></content>
+  </entry>
+  
+</feed>

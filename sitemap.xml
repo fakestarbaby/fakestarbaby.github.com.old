@@ -10,7 +10,7 @@
     </url>
     <url>
         <loc>http://FakeStarBaby.github.com/blog/2011/12/27/go-out/</loc>
-        <lastmod>2012-04-04T09:49:47+09:00</lastmod>
+        <lastmod>2012-04-04T10:42:42+09:00</lastmod>
     </url>
     <url>
         <loc>http://FakeStarBaby.github.com/blog/2011/12/28/goodbye-and-thanks-my-partner/</loc>
@@ -23,6 +23,92 @@
     <url>
         <loc>http://FakeStarBaby.github.com/blog/2012/01/05/age-does-not-matter/</loc>
         <lastmod>2012-04-04T10:09:50+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/01/05/rails-site-list/</loc>
+        <lastmod>2012-04-04T15:39:59+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/01/06/agilesamurai-why-are-we-here/</loc>
+        <lastmod>2012-04-04T15:53:52+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/01/10/shopping-mall-for-children-ux/</loc>
+        <lastmod>2012-04-04T20:23:02+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/01/11/heroku-scheduler-how-to/</loc>
+        <lastmod>2012-04-04T20:41:24+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/01/12/rails-config-how-to/</loc>
+        <lastmod>2012-04-04T20:51:00+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/01/18/agilesamurai-yokohama-dojo/</loc>
+        <lastmod>2012-04-04T20:57:32+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/01/26/book-rework/</loc>
+        <lastmod>2012-04-04T21:02:51+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/01/30/throw-out-the-garbage/</loc>
+        <lastmod>2012-04-04T21:07:26+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/02/01/shinjukurb/</loc>
+        <lastmod>2012-04-04T21:14:55+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/02/02/agileshibuya/</loc>
+        <lastmod>2012-04-04T21:18:54+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/02/04/ruby-tokyo-presentaion-2012/</loc>
+        <lastmod>2012-04-04T21:24:12+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/02/15/heroku-meetup-3/</loc>
+        <lastmod>2012-04-04T21:33:12+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/02/16/shibuyarb/</loc>
+        <lastmod>2012-04-04T21:39:57+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/02/27/devsumi2012-first-day/</loc>
+        <lastmod>2012-04-04T21:45:06+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/02/27/devsumi2012-second-day/</loc>
+        <lastmod>2012-04-04T21:48:14+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/02/28/suc3rum/</loc>
+        <lastmod>2012-04-04T21:54:15+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/02/29/visible-or-invisible/</loc>
+        <lastmod>2012-04-04T22:00:02+09:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://FakeStarBaby.github.com/blog/2012/03/02/awasome-e-learning-service-code-school/
+        </loc>
+        <lastmod>2012-04-04T23:35:41+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/03/06/ocdeploy/</loc>
+        <lastmod>2012-04-04T23:40:29+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/03/06/the-rspec-book/</loc>
+        <lastmod>2012-04-04T23:44:28+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2012/03/06/shibuyarails/</loc>
+        <lastmod>2012-04-04T23:52:21+09:00</lastmod>
     </url>
     <url>
         <loc>
@@ -40,10 +126,10 @@
     </url>
     <url>
         <loc>http://FakeStarBaby.github.com/blog/archives/</loc>
-        <lastmod>2012-04-04T10:09:50+09:00</lastmod>
+        <lastmod>2012-04-04T23:52:21+09:00</lastmod>
     </url>
     <url>
         <loc>http://FakeStarBaby.github.com/</loc>
-        <lastmod>2012-04-04T10:09:50+09:00</lastmod>
+        <lastmod>2012-04-04T23:52:21+09:00</lastmod>
     </url>
 </urlset>

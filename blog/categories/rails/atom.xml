@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rails | SCRABBLE&#9734;NOTE]]></title>
+  <link href="http://FakeStarBaby.github.com/blog/categories/rails/atom.xml" rel="self"/>
+  <link href="http://FakeStarBaby.github.com/"/>
+  <updated>2012-04-04T23:52:46+09:00</updated>
+  <id>http://FakeStarBaby.github.com/</id>
+  <author>
+    <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rails界隈でよくチェックしているサイトまとめ！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/01/05/rails-site-list/"/>
+    <updated>2012-01-05T15:38:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/01/05/rails-site-list</id>
+    <content type="html"><![CDATA[<p>個人的に、Rails界隈でよくチェックしているサイトをまとめておきます。</p>
+
+<h2>プラグイン</h2>
+
+<h3><a href="http://www.ruby-toolbox.com/">The Ruby Toolbox</a></h3>
+
+<p>プラグインの情報を探す時は、大概ココから入ります。プラグインに関するドキュメント、スクリーンキャスト、ブログエントリー等を、皆でプラグインに紐付けられるようになっているので便利です。また、そのプラグインがどのくらい人気があるのか視覚的に分かるようになっているので、最近急に人気が出ているプラグインとか発見出来たりします。単純にブラブラと徘徊していても楽しいサイトです。</p>
+
+<!-- more -->
+
+
+<h2>技術情報／チュートリアル</h2>
+
+<h3><a href="http://ruby5.envylabs.com/">Ruby5</a></h3>
+
+<p>海外の有名な企業<a href="http://envylabs.com/">Envy Labs</a>が情報を掲載しているサイトです。主に、RubyやRails界隈の最新情報、トピックス等を1週間置きくらいに更新しています。</p>
+
+<h3><a href="http://www.atmarkit.co.jp/fcoding/rails/">Coding Edge</a></h3>
+
+<p>@ITで取り上げられているカテゴリ。情報量は少なめです。</p>
+
+<h3><a href="http://ruby.railstutorial.org/">Ruby on Rails Tutorial</a></h3>
+
+<p>言うまでもなく、Rails初心者は絶対に通過すべし。最新のRailsにもすぐに対応してくれるし、とても親切で分かりやすい。</p>
+
+<h3><a href="http://railscasts.com/">RailsCasts</a></h3>
+
+<p>あるテーマに沿った内容のスクリーンキャストをお届けする超有名サイト。</p>
+
+<h3><a href="http://asciicasts.com/">ASCIIcasts</a></h3>
+
+<p>RailsCastsの文字だけバージョン。動画見るのが辛い環境とか、こっちだけ見たりもしますね。</p>
+
+<h3><a href="http://ja.asciicasts.com/">ASCIIcasts(日本語)</a></h3>
+
+<p>ASCIIcastsの日本語訳サイト。全て網羅している訳ではないけど、どうせ読むなら日本語が良いよね。</p>
+
+<h3><a href="http://peepcode.com/">PeepCode</a></h3>
+
+<p>色んなスクリーンキャストが置いてあるサイト。Rails以外にも、Vimとか、TextMateとか、ダウンロードし放題プランに入っているので、たまに覗いて根こそぎダウンロードしてます。</p>
+
+<h3><a href="http://archive.railsrumble.com/">RAILS RUMBLE</a></h3>
+
+<p>毎年海外で開催されている48時間以内にチームでRailsを使ったWEBサービスを開発するというコンテストのサイト。応募作品やチーム、使ってるプラグインなども見れるので楽しいです。</p>
+
+<h3><a href="http://www.planetrubyonrails.com/">PlanetRubyOnRails</a></h3>
+
+<p>色んなRubyやRails界隈の情報を引っ張ってきて掲載しているサイト。このサイトだけ見てても、割りと色んな情報が入ってくるので便利です。</p>
+
+<h3><a href="http://screencasts.org/">SCREENCASTS.ORG</a></h3>
+
+<p>色んなスクリーンキャストがあるサイト。Railsも少しだけあって、HamlとかSassとか勉強する時に活用したきりかもですね。今見ると結構たくさんスクリーンキャストがあります。</p>
+
+<h2>Eラーニング</h2>
+
+<h3><a href="http://railsforzombies.org/">Rails for Zombies</a></h3>
+
+<p>これ知らない人には是非プレイしてみて欲しい。無料だし。キャラクターがゾンビなので少し気が引けるんだけど、内容は至ってまとも。分かりやすいスクリーンキャストに加えて、クイズ形式でRailsの問題を解いて行くだけ。スクリーンキャストはもちろん英語だけど、分かりやすい動画になっているので、英語が分からなくても全く問題無い。</p>
+
+<h3><a href="http://www.codeschool.com/courses/rails-for-zombies-2">Rails for Zombies2</a></h3>
+
+<p>こっちは続編で有料。</p>
+
+<h3><a href="http://railsbest.com/">Rails Best Practices</a></h3>
+
+<p>こっちも別編で有料。これもぬぉー！と唸らせるようなテクニックが満載。楽しいです。</p>
+
+<hr />
+
+<p>んー、あんまり、日本語サイト無いですね。
+Railsに詳しいエンジニアなら、皆よく知っているサイトだと思いますけど、少しでも参考になればと。
+逆に皆はどんなサイトをチェックしているか知りたいですね。</p>
+]]></content>
+  </entry>
+  
+</feed>

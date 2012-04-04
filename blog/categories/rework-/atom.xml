@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rework, | SCRABBLE&#9734;NOTE]]></title>
+  <link href="http://FakeStarBaby.github.com/blog/categories/rework-/atom.xml" rel="self"/>
+  <link href="http://FakeStarBaby.github.com/"/>
+  <updated>2012-04-04T23:52:46+09:00</updated>
+  <id>http://FakeStarBaby.github.com/</id>
+  <author>
+    <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[小さなチーム、大きな仕事を読んだ！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/01/26/book-rework/"/>
+    <updated>2012-01-26T20:59:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/01/26/book-rework</id>
+    <content type="html"><![CDATA[<p>Ruby on Railsを生み出した37signalsが書き上げた成功の法則に関する書籍、「小さなチーム、大きな仕事」を読んだ。この書籍自体は結構前からあったんだけど、今回、イラストを収録して完全版として発売されたので、それをきっかけに購入してみた。</p>
+
+<!-- more -->
+
+
+<h2>感想</h2>
+
+<p>小さなテーマ毎に、コンパクトに要点だけ上手くまとめていて、非常に読みやすい印象を受けた。こうあるべき！という37signalsならではの考え方に加えて、簡単な事例も合わせて掲載されているしね。全て読み終えた後の感想を一言で言うならば、「考えてみれば、当たり前の事」ですね。ここで重要なのは「考えてみれば」という所。</p>
+
+<p>おそらく、ほとんどの話しは自分が気付かない内に、自分の中で常識として定着しているような話しだ。でも、本当はこうだと思わない？一度頭をリセットして、もう一度考えてごらん？と、この書籍は語り掛けてくる。</p>
+
+<h2>胸打たれたフレーズ</h2>
+
+<p>一番気に入ったフレーズは・・・</p>
+
+<blockquote><p>『世界にささやかに貢献しよう』</p></blockquote>
+
+<p>というフレーズ。</p>
+
+<p>世界中をあっと驚かせるようなドリームじゃなくても良い、ささやかでも自分が世界に貢献しているんだという認識を持つ事で、自分がしている仕事に価値を見い出せるようになる。</p>
+
+<h2>まとめ</h2>
+
+<p>今、自分は世界に貢献出来ているだろうか・・・。</p>
+]]></content>
+  </entry>
+  
+</feed>

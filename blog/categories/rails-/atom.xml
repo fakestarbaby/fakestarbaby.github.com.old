@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rails, | SCRABBLE&#9734;NOTE]]></title>
+  <link href="http://FakeStarBaby.github.com/blog/categories/rails-/atom.xml" rel="self"/>
+  <link href="http://FakeStarBaby.github.com/"/>
+  <updated>2012-04-04T23:52:46+09:00</updated>
+  <id>http://FakeStarBaby.github.com/</id>
+  <author>
+    <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第1回 渋谷Edge Rails勉強会×株式会社ドリコム事例発表 + heroku de rails事例発表に参加したよ！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/03/06/shibuyarails/"/>
+    <updated>2012-03-06T23:45:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/03/06/shibuyarails</id>
+    <content type="html"><![CDATA[<p>2012/03/06(火)にGMOさんで開催された、第1回 渋谷Edge Rails勉強会×株式会社ドリコム事例発表 + heroku de rails事例発表に参加したよ！</p>
+
+<p>記念すべき第1回という噂を聞き付けて、これは是非出てみようと思って参加した。会場はとても広くてキレイで、もうここに住んで作業しちゃいたいくらいでしたね。で、集まった人数は約250人くらい？今年に入ってから色んな勉強会に出てきたけど、こんなにRailsやってる人が居たのかー！と衝撃を受けた。そして、そこに紛れ込むいつもの勉強会の顔ぶれ。</p>
+
+<!-- more -->
+
+
+<h2>LT</h2>
+
+<h3><a href="http://twitter.com/ppworks">@ppworks</a>さん</h3>
+
+<p>「HerokuでRails3.2 - We love Heroku 開発事例」です。
+スライドは<a href="http://speakerdeck.com/u/ppworks/p/we-love-heroku">こちら</a>。</p>
+
+<p><a href="http://welove.herokuapp.com/">We love Heroku</a>とは、<a href="http://twitter.com/ayumin">@ayumin</a>さんがボソッとツイートした一言をきっかけに一夜にして<a href="http://twitter.com/ppworks">@ppworks</a>さんが作り上げたサービスで、Herokuを使ってるサービス、どんどん登録して紹介してこうよー！っていうサービスです。LT内容は、HerokuでRails3.2をやる場合、当然、StackはCedarだよねーとか、therubyracerは不要だよねーとか、これからHerokuでRailsする人には必須の知識を紹介していた。そして、最後に少しOpenGraphのお話し。あんまりFB周りに詳しくないので、あんまり理解出来なくてスマン。</p>
+
+<h2>Edge Rails</h2>
+
+<h3><a href="http://twitter.com/onk">@onk</a>さん</h3>
+
+<p>「Rails3.2って何が変わるの？」のお話し。
+スライドは<a href="http://www.slideshare.net/takafumionaka/rails32">こちら</a>。</p>
+
+<p>まず、Development環境が超高速化した。これは今まで全ファイルを読み込んでいたのに対して、差分があったファイルのみを読み込むようにしたからだそうな。高速化が体感出来る程、早くなるとはちょっと試してみなくてはである。あと、ログにタギング出来るってのも追加されたらしいし、スロークエリーが出力されるようになってたりと、もう超高速で説明してくれて、Rails3.2、細かい所が改良されてて良い感じですね。他にもたくさん紹介して頂いたのだが、如何せん、量が多くて全て覚えきれなかった。後日、スライドをアップするそうなので、そちらを参照すると良いっすね。</p>
+
+<h3><a href="http://twitter.com/arihh">@arihh</a>さん</h3>
+
+<p>「ソーシャルアプリで使うjpmobileとガラケーからスマホへの対応」のお話し。</p>
+
+<p>ソーシャルゲームのというお題だったけど、あんまり普通のjpmobileの扱い方の領域を出なかった感がある。でも、jpmobileを知らない人にとっては、ほぅほぅ、って感じだったのかな。自分は去年、jpmobileでガツガツ作ってた事があったので、それ程、新鮮味は無かったかもー。</p>
+
+<h2>懇親会</h2>
+
+<p>その後、ドリンクと軽食が出てきて懇親会。いや、太っ腹ですね、こんなに色々と無料で出してくれちゃって良いんですか？でも、一瞬で全て無くなった。</p>
+
+<p>この時、<a href="http://twitter.com/ayumin">@ayumin</a>さんによるHerokuのLTも実施された。この中でHeroku使ってる人は？って問いに手を挙げたら、手を挙げた奴に要はないから後ろに引っ込めと誘導されたりとか。ついでにHerokuの名刺も頂きました。前回会ったHerokuのMeetupではSalesForceの名刺だったんですが、Herokuの名刺格好良いっす。</p>
+
+<p>そして、いつも勉強会でよく会う人達と少し喋ってお開き！</p>
+
+<h2>まとめ</h2>
+
+<p>今回の収穫は何だろう？と考えると、<a href="http://twitter.com/ppworks">@ppworks</a>さんによる勇気と行動力だろうか。これはきっと、彼の才能なんだと思う。俺も勇気と行動力、意識して高めて行きたいわーって思った。</p>
+
+<p>全然Rails関係ねーじゃん！でも、楽しかったから良し！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[rails_configで環境毎に定数を管理しよう！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/01/12/rails-config-how-to/"/>
+    <updated>2012-01-12T20:42:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/01/12/rails-config-how-to</id>
+    <content type="html"><![CDATA[<h2>rails_config</h2>
+
+<p>定数を開発環境毎にYAMLファイルで管理出来るプラグイン。</p>
+
+<!-- more -->
+
+
+<h3>公式リポジトリ</h3>
+
+<p><a href="https://github.com/railsjedi/rails_config">https://github.com/railsjedi/rails_config</a></p>
+
+<h3>The Ruby Toolbox</h3>
+
+<p><a href="https://www.ruby-toolbox.com/projects/rails_config">https://www.ruby-toolbox.com/projects/rails_config</a></p>
+
+<hr />
+
+<h3>Railsで試してみよう！</h3>
+
+<p>Gemfileにrails_configを記述する。</p>
+
+<p><code>ruby Gemfile
+gem 'rails_config'
+</code></p>
+
+<p>コンソールでコマンドを実行すると、必要となるYAMLファイル一式が自動生成される。</p>
+
+<p>```bash
+$ bundle install
+$ rails g rails_config:install</p>
+
+<pre><code>create  config/initializers/rails_config.rb
+create  config/settings.yml
+create  config/settings.local.yml
+create  config/settings
+create  config/settings/development.yml
+create  config/settings/production.yml
+create  config/settings/test.yml
+append  .gitignore
+</code></pre>
+
+<p>```</p>
+
+<p>各種ファイルの役割は以下。</p>
+
+<ul>
+<li>config/initializers/rails_config.rb</li>
+</ul>
+
+
+<p>定義した定数にアクセスする為のクラス名称を定義する。デフォルトは「Settings」になっている。</p>
+
+<ul>
+<li>.gitignore</li>
+</ul>
+
+
+<p>ファイル名称に「local」が含まれるYAMLファイルは、全てローカル環境専用のファイルとみなされる為、これらのファイルをバージョン管理に含めないような定義が追記される。</p>
+
+<ul>
+<li>config/settings.local.yml</li>
+</ul>
+
+
+<p>ローカル環境専用のYAMLファイル。ローカル環境で動作させている場合は、全てのYAMLファイルに記述されている定数より優先して使用される。ローカル環境のみ、別の定数を割り当てたい時に使用する。</p>
+
+<ul>
+<li>config/settings.yml</li>
+</ul>
+
+
+<p>全ての環境(development/test/production)のベースとして使用される。環境に左右されない定数を定義したい時に使用する。</p>
+
+<ul>
+<li>config/settings/development.yml</li>
+</ul>
+
+
+<p>開発環境でのみ、別の定数を割り当てたい時に使用する。「config/settings.local.yml」との違いは、個々人のローカル環境毎に異なる定数なのか、開発環境毎に異なる定数なのかのみ。</p>
+
+<ul>
+<li>config/settings/test.yml</li>
+</ul>
+
+
+<p>テスト環境でのみ、別の定数を割り当てたい時に使用する。</p>
+
+<ul>
+<li>config/settings/production.yml</li>
+</ul>
+
+
+<p>本番環境でのみ、別の定数を割り当てたい時に使用する。</p>
+
+<h3>利用方法</h3>
+
+<p>利用する時は以下のような感じで。</p>
+
+<p><code>ruby config/settings.yml
+service_name: "Service Name
+service:
+  tag_line: "Rails configuration plugin"
+</code></p>
+
+<p>```bash
+$ rails c</p>
+
+<p>1.9.2-head :001 > Settings.service_name
+  => "Service Name"
+1.9.2-head :002 > Settings.service.tag_line
+ => "Rails configuration plugin"
+```</p>
+
+<h2>どんな感じ？</h2>
+
+<p>同様の機能を持つsettings_logicというプラグインもあるが、こちらは各種ファイルの自動生成コマンドも用意されているし、ローカル環境専用ファイルも用意されているので非常に便利。</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Devsumi2012 | SCRABBLE&#9734;NOTE]]></title>
+  <link href="http://FakeStarBaby.github.com/blog/categories/devsumi2012/atom.xml" rel="self"/>
+  <link href="http://FakeStarBaby.github.com/"/>
+  <updated>2012-04-04T23:52:46+09:00</updated>
+  <id>http://FakeStarBaby.github.com/</id>
+  <author>
+    <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[デブサミ2012に参加したよ！2日目！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/02/27/devsumi2012-second-day/"/>
+    <updated>2012-02-27T21:45:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/02/27/devsumi2012-second-day</id>
+    <content type="html"><![CDATA[<p>前回の続き。</p>
+
+<!-- more -->
+
+
+<h2>02/17(金)</h2>
+
+<h3>【17-E-2】Ruby PaaS MOGOK ～ソフトウェアエンジニアのためのクラウドサービス～</h3>
+
+<p><a href="http://togetter.com/li/257960">http://togetter.com/li/257960</a></p>
+
+<p>どうもHerokuのようなプラットフォームがあるという噂を聞き付けて参加してみた。始まる前から、Herokuと比べた時の優位性について気になっていたが、現状は大差無かったようだし、将来的なビジョンも特に感じられず、Herokuで十分だなという印象だった。やっぱりビジョンは大事だ。誰の何が問題で、それをどうやって解決しようとしているのか、それに共感出来ない限り、興味が惹かれない。</p>
+
+<h3>【17-B-5】アジャイルマニフェスト ディケイド</h3>
+
+<p><a href="http://togetter.com/li/257827">http://togetter.com/li/257827</a></p>
+
+<p>角谷さんのセッションを初めて聞いたけど、観衆を惹き付けるオーラがスゴイ。スライドもメリハリがあって、とても分り易くて楽しかった。セイヤーーー！！っと日々のあれやこれやにぶちかます精神を持つ事が大事だなと感じた。アジャイルはこの10年で現場に大分浸透して、今や当たり前になってきてはいるけど、人を取り巻く環境もそれぞれ違う。その中で何が出来るか、自分でもじっくり考えないといけないな。</p>
+
+<h2>まとめ</h2>
+
+<p>デブサミは去年に続いて2回目の参戦だった。雅叙園に来ると1年前の自分が思い出されて、それから自分はどう成長したかを実感出来る場となった。大丈夫、ちゃんと成長して一回り大きくなった自分がここにいる。そう感じられた事も、一つの大きな収穫になった気がする。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[デブサミ2012に参加したよ！1日目！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/02/27/devsumi2012-first-day/"/>
+    <updated>2012-02-27T21:40:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/02/27/devsumi2012-first-day</id>
+    <content type="html"><![CDATA[<p>2012/02/16(木)、17(金)に目黒雅叙園で開催された、Developers Summit 2012に参加した！去年初参加したので、今回は2回目の参加となる。</p>
+
+<p>両日とも参加したが、外れセッションも幾つかあったので、特に自分が気になったセッションについてまとめる。</p>
+
+<!-- more -->
+
+
+<h2>02/16(木)</h2>
+
+<h3>【16-A-1】見る前に翔べ！ ～ギークの工夫で社会を変えよう～</h3>
+
+<p><a href="http://togetter.com/li/257694">http://togetter.com/li/257694</a></p>
+
+<p>いわゆる最近のプロダクトリリースサイクルについてのお話し。アジャイルだとか、リーンだとか、その辺に関連する話しだったのだが、特に気になったフレーズだけ抜粋。</p>
+
+<blockquote><p>『今日のユーザーの為ではなく、明日のユーザーの為に！』</p></blockquote>
+
+<p>どうしても今目の前に居るユーザーの為にという思考に陥りがちだけど、明日のユーザーの為に価値を提供していく姿勢に共感した。</p>
+
+<blockquote><p>『競合は想像もしていないような他業種である可能性が！』</p></blockquote>
+
+<p>競合＝同業と考えがちだが、もっと大きな視点で見ると、色んな業種が絡み合って成立している事もあるというのは、結構衝撃的だった。</p>
+
+<blockquote><p>『無駄な会議多過ぎじゃない？』</p></blockquote>
+
+<p>激しく同意。会議をする事が目的になってはならない。</p>
+
+<blockquote><p>『不連続へ挑戦する！』</p></blockquote>
+
+<p>連続には安心感を覚えるよね。でも、時としてイノベーションを起こすには、敢えて不連続へ挑戦する事が大事。</p>
+
+<blockquote><p>『来た道ばかりを気にする。本当は行き先の方が大事だ！』</p></blockquote>
+
+<p>何処をどうやって通って来たか、今に繋がっている事もあって気にしがちだよね。過去より未来。</p>
+
+<blockquote><p>『見る前に翔べ！あまり見過ぎると怖くて跳べなくなる！』</p></blockquote>
+
+<p>これ、スゴく良い言葉だね。</p>
+
+<h3>【16-B-2】Yahoo!アジャイルクロニクル ～コーチとエンジニアの体験記～</h3>
+
+<p><a href="http://togetter.com/li/257818">http://togetter.com/li/257818</a></p>
+
+<p>Yahoo!に買収されたアジャイルベンチャーが、現場にアジャイルを浸透させるまでの体験記。大きな企業では文化が根付いているはずで、プロジェクトの進め方を改革するのは相当な苦労だと思う。それを実際にやっているのは、単純にスゴイと感心した。</p>
+
+<h3>【16-A-6】いまどきのi18nのはなし</h3>
+
+<p><a href="http://togetter.com/li/257871">http://togetter.com/li/257871</a></p>
+
+<p>一言で言えば、完全なる多言語サポートを実現するのは、相当な苦労が必要となる事かな。正直真剣に多言語サポートとか経験した事が無かったので甘く見ていたが、これほどまでにやるべき事があるのかと驚愕した。</p>
+
+<h3>【16-B-7】デブサミオフィシャルコミュニティから選出のLT大会2012</h3>
+
+<p><a href="http://togetter.com/li/257716">http://togetter.com/li/257716</a></p>
+
+<p>色んなコミュニティのLTが聞けるという事で面白そうだったので参加してみた。初めてドラ娘のドラを目撃したけど、本当に容赦ないんすね。しかも、ほとんどの人が上手くまとめきれずに終了。一番楽しかったのは「こみゅぷらす」のLTですかね。テクニカルの話しではなかったけど、色々と勉強になる。</p>
+
+<p><a href="http://www.slideshare.net/Fujiwo/20120216-developers-summit-2012-16b7-lt10-11669688">http://www.slideshare.net/Fujiwo/20120216-developers-summit-2012-16b7-lt10-11669688</a></p>
+
+<h2>まとめ</h2>
+
+<p>セッションの合間に勉強会で知り合った人達とランチしたり、元ボス＆同僚と会って話しをしたりして楽しい1日を過ごせたなー。</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Agileshibuya | SCRABBLE&#9734;NOTE]]></title>
+  <link href="http://FakeStarBaby.github.com/blog/categories/agileshibuya/atom.xml" rel="self"/>
+  <link href="http://FakeStarBaby.github.com/"/>
+  <updated>2012-04-04T23:52:46+09:00</updated>
+  <id>http://FakeStarBaby.github.com/</id>
+  <author>
+    <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Agile渋谷に参加した！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/02/02/agileshibuya/"/>
+    <updated>2012-02-02T21:15:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/02/02/agileshibuya</id>
+    <content type="html"><![CDATA[<p>2012年に入って初めてのAgile渋谷に参加して来ました！参加者のほとんどは初めて参加する人達ばかりだったみたい。</p>
+
+<p>さて、細かい内容の詳細は置いといて、自分が感じた事だけ書こう。</p>
+
+<!-- more -->
+
+
+<h2>スタンドアップミーティング</h2>
+
+<p>やってる案件って結構あったけど、自分が喋る時以外は大体ボーッとしている人が多かったなー。そんな事してる暇があったら、さっさと自分のタスクを終わらしたいんだよ！みたいな。時間も区切らず、延々と報告し続けるだけとかは本当に害悪以外の何者でもない。そもそも、メンバー全員が、スタンドアップミーティングをやる価値を見い出せていないと、やる価値は無いよなーと。</p>
+
+<h2>プランニング</h2>
+
+<p>これは完全に現実とは掛け離れた夢がモリモリなスケジュール！って感じの所が多かったな。なんていうんだろう・・・もはや、現場の誰もがそのスケジュールに疑いの目を向けているというか。「小さなチーム、大きな仕事」でも書かれていたが、人間は見積もりが非常にヘタだと。俺が明日、何のジュースを飲むかなんて、今の時点で予想出来るわきゃーない。明日の気分にもよるし。人間なんて不完全なんだから、不完全な前提でプランニングすべきだよね。</p>
+
+<h2>レトロスペクティブ</h2>
+
+<p>いわゆる、振り返りってヤツ。舌を噛みそうで慣れないけど。たくさん受託開発をやったけど、これはあんまり見た事無かった。何が悪かったか、魔女狩りばっかりやってるような所はあった。そんな誰も得しない、無意味な事に時間を費やすのはアホらしい。どうせなら、次に繋がる施策を考えるべきだよね、成長するチャンスな訳だし。</p>
+
+<h2>自己組織化ゲーム</h2>
+
+<p>これは言葉ではなかなか説明出来ないけど、感覚は掴んだ。上手くやる為には、メンバー全員が自分以外のメンバーの事も考えて、自主的に行動しなければならない。まず、行動する事。行動しないと何も始まらないし、終わりもしない。次に、初回は物凄く苦戦する。多分、回数を重ねる毎に、どんどん早く終わらせられるはず。どんどん強いチームになる。感覚としては、チームビルディングに近いかな。これは大変面白くて興味深いので、すぐにでも体験してみて欲しい。</p>
+
+<h2>まとめ</h2>
+
+<p>と、いつもの調子で書き殴ってみた。アジャイル、アジャイルなAgile渋谷だったけど、自分的にはこの言葉に全てが集約されている気がしている。</p>
+
+<blockquote><p>『Keep it fun !! more fun, more fun.』</p></blockquote>
+
+<p>やっぱり、仕事は楽しくありたいわー。</p>
+]]></content>
+  </entry>
+  
+</feed>

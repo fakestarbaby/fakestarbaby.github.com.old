@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Workstyle | SCRABBLE NOTE]]></title>
+  <title><![CDATA[Category: Workstyle | SCRABBLE&#9734;NOTE]]></title>
   <link href="http://FakeStarBaby.github.com/blog/categories/workstyle/atom.xml" rel="self"/>
   <link href="http://FakeStarBaby.github.com/"/>
-  <updated>2012-04-04T10:09:50+09:00</updated>
+  <updated>2012-04-04T23:52:46+09:00</updated>
   <id>http://FakeStarBaby.github.com/</id>
   <author>
     <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[大切にしたいモノがあるなら、身軽になるべき！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/01/30/throw-out-the-garbage/"/>
+    <updated>2012-01-30T21:04:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/01/30/throw-out-the-garbage</id>
+    <content type="html"><![CDATA[<p>どうも、最近めっきりエンジニア色が薄れてきたFakeStarBabyです。同僚がとても素晴らしいツイートをしたのでご紹介をしたいと思います。</p>
+
+<!-- more -->
+
+
+<h2>ゴミは捨てる</h2>
+
+<blockquote><p>『自分にとって何が大事で何がゴミかってことだ。ゴミを捨てて、大事なものを大切に扱わないと、大切なものを本当に大事にはできなくなる。だから、選ぶことが必要。選べない状況にいるとき、人は多大なストレスを受ける。』</p></blockquote>
+
+<p>人は常にたくさんの荷物を抱えている。自分の中では、きっと、何が大事で何がゴミなのか理解しているはずだ。だけど、ゴミをゴミとして扱って捨てる事を選択出来ず、結果、両手に抱えきれない程の荷物を抱えてしまい、大事なモノが両手から溢れ落ちてしまう。</p>
+
+<p>取捨選択だ。</p>
+
+<p>何かを得る為には、何かを捨てなければならない。なるべく、身軽でありたい。そして、ゴミはゴミ箱へきちんと捨てたい。そう思った。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[何をやるかよりも、誰とやるか！]]></title>
