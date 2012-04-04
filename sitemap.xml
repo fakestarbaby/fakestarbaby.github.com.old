@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://FakeStarBaby.github.com/blog/2011/12/22/do-with-anyone/</loc>
+        <lastmod>2012-04-04T09:31:16+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://FakeStarBaby.github.com/blog/2011/12/26/other-side-of-the-code/</loc>
+        <lastmod>2012-04-04T09:37:20+09:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://FakeStarBaby.github.com/blog/2012/03/31/sfnewtech-japan-night-tokyo-semi-final/
         </loc>
@@ -16,10 +24,10 @@
     </url>
     <url>
         <loc>http://FakeStarBaby.github.com/blog/archives/</loc>
-        <lastmod>2012-04-03T14:10:12+09:00</lastmod>
+        <lastmod>2012-04-04T09:37:20+09:00</lastmod>
     </url>
     <url>
         <loc>http://FakeStarBaby.github.com/</loc>
-        <lastmod>2012-04-03T14:10:12+09:00</lastmod>
+        <lastmod>2012-04-04T09:37:20+09:00</lastmod>
     </url>
 </urlset>
