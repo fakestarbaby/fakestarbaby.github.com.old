@@ -3,7 +3,7 @@ layout: post
 title: "Heroku Scheduler"
 date: 2012-01-11 20:24
 comments: true
-categories: Heroku, HerokuAddons, HerokuScheduler
+categories: heroku
 ---
 
 ## Heroku Scheduler

@@ -3,7 +3,7 @@ layout: post
 title: "第1回 渋谷Edge Rails勉強会×株式会社ドリコム事例発表 + heroku de rails事例発表に参加したよ！"
 date: 2012-03-06 23:45
 comments: true
-categories: Ruby, Rails, Event, ShibuyaRails
+categories: [rails, heroku, event]
 ---
 
 2012/03/06(火)にGMOさんで開催された、第1回 渋谷Edge Rails勉強会×株式会社ドリコム事例発表 + heroku de rails事例発表に参加したよ！

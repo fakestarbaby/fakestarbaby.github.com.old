@@ -3,7 +3,7 @@ layout: post
 title: "Heroku JP Meetup #3に参加したよ！"
 date: 2012-02-15 21:24
 comments: true
-categories: Heroku, Event, HerokuMeetup
+categories: [heroku, event]
 ---
 
 2012年02月14日(火)のバレンタインデーに開催された、HerokuのMeetupに参加した。会場は、なんとクックパッドさん！

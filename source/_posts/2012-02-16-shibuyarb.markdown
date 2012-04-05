@@ -3,7 +3,7 @@ layout: post
 title: "Shibuya.rbに初参加したよ！"
 date: 2012-02-16 21:34
 comments: true
-categories: Ruby, Event, Shibuyarb
+categories: [ruby, event]
 ---
 
 2012/02/15(水)にVOYAGE GROUPさんで開催された、Shibuya.rbに初参加した。

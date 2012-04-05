@@ -3,7 +3,7 @@ layout: post
 title: "Rails界隈でよくチェックしているサイトまとめ！"
 date: 2012-01-05 15:38
 comments: true
-categories: Rails
+categories: rails
 ---
 
 個人的に、Rails界隈でよくチェックしているサイトをまとめておきます。

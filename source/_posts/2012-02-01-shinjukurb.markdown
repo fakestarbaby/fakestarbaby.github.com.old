@@ -3,7 +3,7 @@ layout: post
 title: "記念すべき第1回Shinjuku.rbに参加したよ！"
 date: 2012-02-01 21:08
 comments: true
-categories: Ruby, Event, Shinjukurb
+categories: [ruby, event]
 ---
 
 2012年1月に立ち上がったばかりのShinjuku.rb第1回に参加して来ました！

@@ -3,7 +3,7 @@ layout: post
 title: "すくすくスクラムに参加したよ！"
 date: 2012-02-28 21:48
 comments: true
-categories: Scrum, Event, Suc3rum
+categories: [agile, scrum, event]
 ---
 
 2012/02/22(水)にVOYAGE GROUPで開催された、すくすくスクラムに参加したよ！

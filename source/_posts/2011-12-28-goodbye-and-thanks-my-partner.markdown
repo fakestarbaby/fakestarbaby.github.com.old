@@ -3,7 +3,7 @@ layout: post
 title: "相棒よ、お疲れ様でした！"
 date: 2011-12-28 09:54
 comments: true
-categories: Goodbye, Thanks
+categories: 
 ---
 
 今の会社に入社してから、一心同体で戦いに挑んできた相棒とも今日でお別れ。同じ会社で一緒に戦う事はもう無さそうだ。

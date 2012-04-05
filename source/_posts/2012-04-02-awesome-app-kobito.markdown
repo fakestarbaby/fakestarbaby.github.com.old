@@ -3,7 +3,7 @@ layout: post
 title: "プログラマーの技術情報を記録するアプリKobitoが素晴らしい！"
 date: 2012-04-02 12:41
 comments: true
-categories: App
+categories: app
 ---
 
 皆さんは、プログラミングに関する知識をどうやって蓄積していますか？私は、ずっとEvernoteに蓄積していたんですが、つい最近から[Kobito](http://kobitoapp.com/)へ乗り換えました。今回は、このKobitoについて、少し紹介したいと思います。

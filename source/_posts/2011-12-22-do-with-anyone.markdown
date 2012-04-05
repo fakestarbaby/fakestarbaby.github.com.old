@@ -3,7 +3,7 @@ layout: post
 title: "何をやるかよりも、誰とやるか！"
 date: 2011-12-22 09:24
 comments: true
-categories: Workstyle
+categories: workstyle
 ---
 
 どうも初めまして、FakeStarBabyです。とある会社の社内ベンチャー部門で、新規開発のあんな事やこんな事、そして、Railsでコードを書いたりしてます。基本的な軸はエンジニア・・・だと思います。

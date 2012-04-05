@@ -3,7 +3,7 @@ layout: post
 title: "デブサミ2012に参加したよ！2日目！"
 date: 2012-02-27 21:45
 comments: true
-categories: Developer, Event, Devsumi2012
+categories: [engineer, event]
 ---
 
 前回の続き。

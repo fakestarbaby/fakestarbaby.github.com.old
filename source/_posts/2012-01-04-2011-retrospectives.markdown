@@ -3,7 +3,7 @@ layout: post
 title: "今更ながら2011年を振り返る！"
 date: 2012-01-04 10:03
 comments: true
-categories: Retrospectives, 2011
+categories: retrospectives
 ---
 
 振り返りもせずに新年を迎えてしまったが、きちんと学んだ事をアウトプットしておきたいので、ここで2011年を振り返っておこうと思う。

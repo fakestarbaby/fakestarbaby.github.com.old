@@ -3,7 +3,7 @@ layout: post
 title: "Agile渋谷に参加した！"
 date: 2012-02-02 21:15
 comments: true
-categories: Agile, Event, Agileshibuya
+categories: [agile, event]
 ---
 
 2012年に入って初めてのAgile渋谷に参加して来ました！参加者のほとんどは初めて参加する人達ばかりだったみたい。

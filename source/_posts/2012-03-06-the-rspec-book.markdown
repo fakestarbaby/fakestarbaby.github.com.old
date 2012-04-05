@@ -3,7 +3,7 @@ layout: post
 title: "The RSpec Bookを読んだ！"
 date: 2012-03-06 23:41
 comments: true
-categories: Books, TheRSpecBook
+categories: [books, rspec]
 ---
 
 やっぱり、ちゃんとテスト出来るようになりたいっていう一心で、The RSpec Bookを購入して読んでみた。

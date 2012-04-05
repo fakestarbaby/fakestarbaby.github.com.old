@@ -3,7 +3,7 @@ layout: post
 title: "rails_configで環境毎に定数を管理しよう！"
 date: 2012-01-12 20:42
 comments: true
-categories: Rails, RailsPlugins, rails_config
+categories: [rails, plugins]
 ---
 
 ## rails_config

@@ -3,7 +3,7 @@ layout: post
 title: "最高にクールなeラーニングサービスを知ってるかい？教えてあげよう！それは・・・！"
 date: 2012-03-02 22:00
 comments: true
-categories: e-Learning, CodeSchool
+categories: service
 ---
 
 Code Schoolさー！知ってる人は知っている、海外の有名企業envylabsが絶賛提供中のeラーニングサービスである。

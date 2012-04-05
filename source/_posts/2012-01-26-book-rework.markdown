@@ -3,7 +3,7 @@ layout: post
 title: "小さなチーム、大きな仕事を読んだ！"
 date: 2012-01-26 20:59
 comments: true
-categories: books, rework, 37signals
+categories: [books, workstyle]
 ---
 
 Ruby on Railsを生み出した37signalsが書き上げた成功の法則に関する書籍、「小さなチーム、大きな仕事」を読んだ。この書籍自体は結構前からあったんだけど、今回、イラストを収録して完全版として発売されたので、それをきっかけに購入してみた。

@@ -3,7 +3,7 @@ layout: post
 title: "デブサミ2012に参加したよ！1日目！"
 date: 2012-02-27 21:40
 comments: true
-categories: Developer, Event, Devsumi2012
+categories: [engineer, event]
 ---
 
 2012/02/16(木)、17(金)に目黒雅叙園で開催された、Developers Summit 2012に参加した！去年初参加したので、今回は2回目の参加となる。

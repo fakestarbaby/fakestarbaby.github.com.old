@@ -3,7 +3,7 @@ layout: post
 title: "人間には見えるモノと見えないモノがある！"
 date: 2012-02-29 21:57
 comments: true
-categories: Talk
+categories: quotes
 ---
 
 つい最近、仲間内で集まって飲み会をしてた中で、面白い話題が挙がっていた。

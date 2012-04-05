@@ -3,7 +3,7 @@ layout: post
 title: "ショッピングモールの子供向けUXについて！"
 date: 2012-01-10 20:19
 comments: true
-categories: ShoppingMall, Children, UX
+categories: ux
 ---
 
 去年の年末かな、初めて横浜のららぽーとに行った時のお話し。

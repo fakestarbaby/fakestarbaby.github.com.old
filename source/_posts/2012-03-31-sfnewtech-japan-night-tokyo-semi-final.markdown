@@ -3,7 +3,7 @@ layout: post
 title: "『第4回 SFNewTech Japan Night 東京セミファイナル』を観覧して来ました！"
 date: 2012-03-31 01:13
 comments: true
-categories: Event, Startup
+categories: [startup, event]
 ---
 
 2012/03/30(金)に開催された『[第4回 SFNewTech Japan Night 東京セミファイナル](http://sfjapannight.com/jn4-02.php)』を観覧して来ました。

@@ -3,7 +3,7 @@ layout: post
 title: "ワンクリックデプロイ勉強会に参加したよ！"
 date: 2012-03-06 23:36
 comments: true
-categories: CI, Event, OneClickDeploy
+categories: [deploy, event]
 ---
 
 2012/03/05(月)に横浜のアットウェアさんにて開催された、ワンクリックデプロイ勉強会に参加した！

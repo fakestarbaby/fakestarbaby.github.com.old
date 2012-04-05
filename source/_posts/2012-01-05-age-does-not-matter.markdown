@@ -3,7 +3,7 @@ layout: post
 title: "仲間に年齢って関係あるのか？"
 date: 2012-01-05 10:08
 comments: true
-categories: Workstyle, Age
+categories: workstyle
 ---
 
 前々からスゴく疑問に思う事。一緒に働く、遊ぶ仲間に年齢制限があるのか？って話し。

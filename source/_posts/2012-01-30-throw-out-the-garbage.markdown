@@ -3,7 +3,7 @@ layout: post
 title: "大切にしたいモノがあるなら、身軽になるべき！"
 date: 2012-01-30 21:04
 comments: true
-categories: Workstyle
+categories: quotes
 ---
 
 どうも、最近めっきりエンジニア色が薄れてきたFakeStarBabyです。同僚がとても素晴らしいツイートをしたのでご紹介をしたいと思います。

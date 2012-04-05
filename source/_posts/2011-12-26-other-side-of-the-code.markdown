@@ -3,7 +3,7 @@ layout: post
 title: "そのコードの向こう側、見えてますか？"
 date: 2011-12-26 09:35
 comments: true
-categories: Programmer, Code
+categories: engineer
 ---
 
 エンジニアの一日の大半は、コードと向き合って実装を行う事だと思うんだけど、それが目的化してはいけないなーと、最近になって強く思うようになった。

@@ -3,7 +3,7 @@ layout: post
 title: "もっと仲間を増やしたい！"
 date: 2011-12-27 09:48
 comments: true
-categories: Programmer
+categories: workstyle
 ---
 
 来年から、会社のエンジニアは俺ただ一人となる。皆それぞれ自分の進むべき道を真剣に考えた結果、残念ながら離れる事になった。エンジニアが一人、何それ楽しいの？想像しただけでも楽しくないわー。
