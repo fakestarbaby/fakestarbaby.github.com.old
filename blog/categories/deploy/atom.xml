@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: deploy | SCRABBLE&#9734;NOTE]]></title>
+  <link href="http://FakeStarBaby.github.com/blog/categories/deploy/atom.xml" rel="self"/>
+  <link href="http://FakeStarBaby.github.com/"/>
+  <updated>2012-04-05T23:14:35+09:00</updated>
+  <id>http://FakeStarBaby.github.com/</id>
+  <author>
+    <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ワンクリックデプロイ勉強会に参加したよ！]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/03/06/ocdeploy/"/>
+    <updated>2012-03-06T23:36:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/03/06/ocdeploy</id>
+    <content type="html"><![CDATA[<p>2012/03/05(月)に横浜のアットウェアさんにて開催された、ワンクリックデプロイ勉強会に参加した！</p>
+
+<p>当日使用されたスライドは<a href="http://www.slideshare.net/Ryuzee/101-10647187">こちら</a>。詳細は全てスライドに書いてあるので省略！一番印象に残った言葉についてだけ書く。</p>
+
+<!-- more -->
+
+
+<h2>当然という態度</h2>
+
+<blockquote><p>『テスト自動化しないなんて、頭おかしいんじゃないですか？』</p></blockquote>
+
+<p>ジョークのように聞こえるかもしれないが、これをサラっと言える、その感覚がスゴく大事だと思った。これは、テスト自動化する事を常識として捉えていて、テストを手動でやるという選択肢が無い事を意味している。もちろん、時と場合によって手動テストでないと困難なケースもあるだろうけどね。</p>
+
+<h2>まとめ</h2>
+
+<p>自分はまだ、この領域に手を出し始めたばかりで、その感覚には程遠い。テスト自動化するのが当たり前で、それが無いと不安に陥るくらい、自分の中に定着しないといけないと思った。話しはそれからだ。</p>
+]]></content>
+  </entry>
+  
+</feed>
