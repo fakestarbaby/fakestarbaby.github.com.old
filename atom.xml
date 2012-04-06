@@ -4,7 +4,7 @@
   <title><![CDATA[SCRABBLE&#9734;NOTE]]></title>
   <link href="http://FakeStarBaby.github.com/atom.xml" rel="self"/>
   <link href="http://FakeStarBaby.github.com/"/>
-  <updated>2012-04-05T23:14:35+09:00</updated>
+  <updated>2012-04-06T11:25:33+09:00</updated>
   <id>http://FakeStarBaby.github.com/</id>
   <author>
     <name><![CDATA[Yoshinori Hirasawa a.k.a. fakestarbaby]]></name>
@@ -12,6 +12,74 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ブログを乗り換えた理由]]></title>
+    <link href="http://FakeStarBaby.github.com/blog/2012/04/06/the-reason-i-changed-the-blog/"/>
+    <updated>2012-04-06T11:21:00+09:00</updated>
+    <id>http://FakeStarBaby.github.com/blog/2012/04/06/the-reason-i-changed-the-blog</id>
+    <content type="html"><![CDATA[<p>2011年12月末から始めた人生初の<a href="http://fakestarbaby.hatenablog.com/">ブログ</a>は、<a href="http://hatenablog.com/">はてなブログ</a>でした。しかーし、わずか、4ヶ月足らずで<a href="http://octopress.org/">Octopress</a>と<a href="http://pages.github.com/">GitHub Pages</a>の組み合わせに移行する事に決めました。今回は、私がブログを乗り換えた理由について書いてみたいと思います。</p>
+
+<!-- more -->
+
+
+<h2>旧ブログ環境</h2>
+
+<h3>Evernote &amp; はてなブログ</h3>
+
+<p>旧ブログ環境は、<a href="http://www.evernote.com/about/intl/jp/">Evernote</a>で下書きをして、はてなブログの「見たままモード」でコピペして記事を投稿するプロセスを踏んでいました。</p>
+
+<h3>問題発覚</h3>
+
+<p>ブログの下書きを書くという行為は、自分の考えをきちんと整理してアウトプットするという意味でも、絶対に必要な作業だし、時間を掛けるだけの価値があると思っています。旧ブログ環境で問題だと感じた点は以下です。</p>
+
+<h4>・Evernoteで装飾をしても、はてなブログへ上げる際にロストしてしまう。</h4>
+
+<p>はてなブログは「見たままモード」で記事を書いていた為、Evernoteで見出しやリンクの装飾をしても、はてなブログへ上げる際に、単純なコピペだけでは済みません。その為、Evernoteでは一切、装飾はせず、テキストだけをズラズラと書いて下書きを作成していました。装飾したいけど、わざわざ、「見たままモード」でボタンをポチポチするのも面倒臭い、「HTMLモード」でHTMLをイジイジするのも面倒臭い。装飾したいだけなのに、兎にも角にも面倒臭いのは問題ですよね。ちなみに、はてなブログには「はてな記法モード」もありますが、コンテンツの再利用性が失われるので採用しませんでした。装飾するのにコストが掛かる事は問題です。</p>
+
+<h4>・Evernoteをはてなブログへコピペして、プレビューして公開というプロセスが面倒臭い。</h4>
+
+<p>このプロセスは既に下書きが出来上がってる前提なので、私からしてみれば、ただブログへ記事を上げて公開するという作業です。もう一度言います、作業なんです。この作業に関しては、出来るだけコストを掛けたくない、何も考えずにサクッと出来る事が望ましいのですが、Evernoteを開いて下書きをコピーし、はてなブログの管理画面を表示し、新規記事を投稿する画面を表示し、本文へペーストし、タイトルを入力し、プレビュー画面を表示して確認し、公開するボタンを押下して投稿する・・・まー、クソ面倒臭いですよね。とにかく、クソ面倒臭い。下書きを投稿するのにコストが掛かる事は問題です。</p>
+
+<h3>解決策模索</h3>
+
+<p>そもそも、ブログを今まで書いた事も無かったし、これはまだ自分が知らないだけで、何か改善の余地があるのではないか？と思ったのが、ブログ移行のきっかけで、ここから、解決策の模索が始まりました。解決すべき問題は以下ですね。</p>
+
+<h4>・下書きを装飾出来て、そのままブログへ上げられる事。</h4>
+
+<p>下書きに見出しやリンクを付けられて、出来るだけ手を加える事無く、そのままブログへ上げられたら最高です。</p>
+
+<h4>・下書きをブログへ投稿するプロセスを簡略化する事。</h4>
+
+<p>とにかく、面倒臭い作業無しで、ブログへ簡単に投稿出来るプロセスを確立出来たら最高です。</p>
+
+<h2>新ブログ環境</h2>
+
+<h3>Kobito &amp; Octopress &amp; GitHub Pages &amp; Qiita</h3>
+
+<p>新ブログ環境は、<a href="http://kobitoapp.com/">Kobito</a>で下書きをして、<a href="http://octopress.org/">Octopress</a>を利用して<a href="http://pages.github.com/">GitHub Pages</a>へ構築したブログへ投稿するようにしました。更に、コードに関する内容は、全て<a href="http://qiita.com/">Qiita</a>に集約する事にしました。Octopressの環境構築に関しては、簡単なメモを<a href="http://qiita.com/users/fakestarbaby">fakestarbabyの投稿したアイテム</a>に上げてありますので、興味があれば参考にしてみて下さい。</p>
+
+<p>この新ブログ環境では、見事に問題を解決してくれています。</p>
+
+<h4>・下書きを装飾出来て、そのままブログへ上げられる事。</h4>
+
+<p>KobitoはMarkdown記法を採用している為、簡単に見出しやリンクの装飾を行う事が出来るし、記述しながらプレビューする機能も付いているので、下書きを書くというプロセスにおいて、非常に有用なツールだと思います。そして、OctopressはMarkdown記法で記事を投稿出来る為、Kobitoで書いた下書きをそのまま再利用する事が可能です。Octopressは、記事のヘッダーにヘッダー情報を記載しないといけないのですが、これに関しては、Octopressの新規記事自動生成でカバー出来るので、大した問題にはなりません。</p>
+
+<h4>・下書きをブログへ投稿するプロセスを簡略化する事。</h4>
+
+<p>下書きが既にMarkdownで書かれているので、Octopressで敢えてプレビューする事も無いのだが、ローカルで簡単にプレビューして確認する事も簡単です。Octopressで用意されているCUIを利用する事で、GitHub Pagesへデプロイするのもコマンド一発でオッケーです。</p>
+
+<h3>Qiita</h3>
+
+<p>コードに関する記事に関しては、現状、Qiitaへ集約する事にしてみました。やはり、自分のブログへ載せたいという気持ちもあるのですが、その辺は、まず、Qiitaを使い倒してみて、また問題が発見されたら改善して行こうと考えています。</p>
+
+<h2>まとめ</h2>
+
+<p>新ブログ環境へ移行してから、一連のプロセスのムダが省けて快適です。Kobitoは現在、外部ファイルへの出力をサポートしていませんが、中の人によると、いずれサポートされるという話しなので、Kobitoで下書きを書いて、Octopressプロジェクト配下に直接出力させる事によって、更に快適になりそうな気がしています。</p>
+
+<p>現状に甘んじる事無く、常に問題を見つけて改善する努力を重ねて行きたいですね。あと、ブログの達人達は、どのような環境でブログを書いているのか、非常に興味があります。良かったら、是非、ブログに書いてシェアして下さい。参考にしたいです。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[プログラマーの技術情報を記録するアプリKobitoが素晴らしい！]]></title>
@@ -974,60 +1042,6 @@
 <h2>どんな感じ？</h2>
 
 <p>同様の機能を持つsettings_logicというプラグインもあるが、こちらは各種ファイルの自動生成コマンドも用意されているし、ローカル環境専用ファイルも用意されているので非常に便利。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Heroku Scheduler]]></title>
-    <link href="http://FakeStarBaby.github.com/blog/2012/01/11/heroku-scheduler-how-to/"/>
-    <updated>2012-01-11T20:24:00+09:00</updated>
-    <id>http://FakeStarBaby.github.com/blog/2012/01/11/heroku-scheduler-how-to</id>
-    <content type="html"><![CDATA[<h2>Heroku Scheduler</h2>
-
-<p>Heroku上で10分、1時間、1日間隔でバックグラウンドジョブを実行出来る無料アドオンです。</p>
-
-<!-- more -->
-
-
-<h3>公式ドキュメント</h3>
-
-<p>http://devcenter.heroku.com/articles/scheduler</p>
-
-<h3>参考になるエントリー</h3>
-
-<p>http://blogjp.sforce.com/2011/11/heroku-schedule-dc69.html
-http://sadayuki.hateblo.jp/entry/2011/12/28/194235
-http://d.hatena.ne.jp/ToMmY/20111121/1321802014</p>
-
-<hr />
-
-<h3>タスクを準備</h3>
-
-<p>バックグラウンドで実行するタスクを用意します。</p>
-
-<figure class='code'><figcaption><span>lib/tasks/scheduler.rake</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="n">desc</span> <span class="s2">&quot;This task is called by the Heroku scheduler add-on&quot;</span>
-</span><span class='line'><span class="n">task</span> <span class="ss">:create_sample</span> <span class="o">=&gt;</span> <span class="ss">:environment</span> <span class="k">do</span>
-</span><span class='line'>  <span class="nb">puts</span> <span class="s2">&quot;fakestarbaby&quot;</span>
-</span><span class='line'><span class="k">end</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<h3>タスクの詳細設定</h3>
-
-<p>Heroku Schedulerアドオンを追加して、タスクを実行するように設定します。</p>
-
-<p><img src="http://f.cl.ly/items/3w1z2k0o2P3M1M1T3k44/heroku_scheduler.jpg" title="Heroku Scheduler" alt="Heroku Scheduler" /></p>
-
-<p>ここでは、タスクを「bundle exec rake create_sample」、間隔を10分に設定してみました。
-後は、「Run」ボタンを押下すれば、バックグラウンドジョブが10分間隔で実行されるようになります。</p>
-
-<h2>まとめ</h2>
-
-<p>同様のHerokuアドオンとして提供されているHeroku Cronは、アドオンを追加したタイミングから1日間隔でしかバックグラウンドジョブを実行出来ないが、こちらは柔軟に間隔を任意選択出来るのでとっても便利だなーと思った。</p>
 ]]></content>
   </entry>
   
